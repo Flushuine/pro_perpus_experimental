@@ -25,7 +25,7 @@ You will need a server with:
 ## Setup
 To run this project, install it locally using:
 
-$ cd ../Pro_Perpus
+$ cd ../pro_perpus
 $ composer install
 $ npm install
 $ cp .env.example .env
