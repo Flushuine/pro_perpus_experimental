@@ -39,7 +39,7 @@ $ php artisan serve
 
 
 ## Project Status
-Project is: in progress
+Project is: under development.
 
 
 ## Contact
