@@ -1,5 +1,5 @@
 # Pro_Perpus - Online Library
->Pro_Perpus is an online Library where people can read books anytime and anywhere.
+>Pro_Perpus the free online library that anyone can read.
 
 ## Table of Contents
 * [General Info](#general-information)
